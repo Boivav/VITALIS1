@@ -1,0 +1,9 @@
+{
+  "name": "VITALIS – AIoT Health Companion",
+  "short_name": "VITALIS",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0f766e",
+  "description": "Offline-first personal health and environmental risk monitoring."
+}
